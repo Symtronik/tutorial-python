@@ -1,0 +1,51 @@
+# Wyklucz pliki środowiska wirtualnego
+venv/
+env/
+.venv/
+.env/
+
+# Pliki ustawień edytorów i IDE
+*.vscode/
+.idea/
+*.swp
+
+# Pliki cache i pliki generowane przez Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+
+# Wyklucz pliki konfiguracyjne środowiska
+*.env
+*.ini
+*.cfg
+
+# Wyklucz pliki dzienników i bazy danych
+*.log
+*.sqlite3
+*.db
+
+# Wyklucz pliki wygenerowane przez narzędzia
+*.coverage
+*.egg-info/
+dist/
+build/
+*.egg
+*.manifest
+
+# Wyklucz pliki dotyczące testów
+htmlcov/
+.tox/
+.pytest_cache/
+
+# Wyklucz pliki notebooków Jupyter
+.ipynb_checkpoints/
+
+# Wyklucz pliki kompilowane przez Cython
+*.c
+*.so
+
+# Wyklucz pliki środowiska Docker
+docker-compose.yml
+Dockerfile
