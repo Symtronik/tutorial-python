@@ -12,14 +12,14 @@ Witaj w kursie Pythona od podstaw! Kurs ten jest idealny dla osób, które dopie
 ### Lekcja 1: Wprowadzenie do Pythona – Wyświetlenie „Hello, World!”
 W tej lekcji poznasz, czym jest Python i jak uruchomić swój pierwszy program, który wyświetli tekst „Hello, World!”. Jest to tradycyjny sposób rozpoczęcia nauki każdego języka programowania.
 
-👉 [Przejdź do Lekcji 1](https://youtu.be/G1gxc-B_lSw)
+👉 [Przejdź do Lekcji 1 na youtube.com](https://youtu.be/G1gxc-B_lSw)
 
 ---
 
 ### Lekcja 2: Zmienne w Pythonie
 W drugiej lekcji zagłębimy się w pojęcie zmiennych, które pozwalają przechowywać dane i nimi manipulować. Dowiesz się, jak tworzyć zmienne, jakie są ich typy oraz jak wykonywać na nich podstawowe operacje.
 
-👉 [Przejdź do Lekcji 2](https://youtu.be/URKmpt4G2pA)
+👉 [Przejdź do Lekcji 2 na youtube.com](https://youtu.be/URKmpt4G2pA)
 
 ---
 
